@@ -5,6 +5,7 @@ Was not able to get the example at this link (https://github.com/react-native-sh
 ## start the project
 
 ```
+npx pod-install
 npx react-native run-ios
 ```
 
