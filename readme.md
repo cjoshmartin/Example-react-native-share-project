@@ -2,7 +2,7 @@
 
 Was not able to get the example at this link (https://github.com/react-native-share/react-native-share) to work, so I made my own
 
-##start the project
+## start the project
 
 ```
 npx react-native run-ios
